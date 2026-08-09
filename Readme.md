@@ -9,7 +9,7 @@
 - 💻 Building projects with **HTML, CSS, JavaScript, Python & C**
 - 🎯 Goal: To become a proficient **Full-Stack Developer**
 - 📫 Reach me at: **[ghoshkhokan569@gmail.com]**
-- ⚡ Fun fact: **[Boudi lover]**
+- ⚡ Fun fact: ****
 
 ---
 
