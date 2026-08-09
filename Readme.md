@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+[Your+Name]+👋;Welcome+to+my+GitHub+Profile;New+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+SAMPAD GHOSH+👋;Welcome+to+my+GitHub+Profile;New+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -8,8 +8,8 @@
 - 🌱 I'm currently learning **Web Development & Programming**
 - 💻 Building projects with **HTML, CSS, JavaScript, Python & C**
 - 🎯 Goal: To become a proficient **Full-Stack Developer**
-- 📫 Reach me at: **[your.email@example.com]**
-- ⚡ Fun fact: **[Add something interesting about yourself]**
+- 📫 Reach me at: **[ghoshkhokan569@gmail.com]**
+- ⚡ Fun fact: **[Boudi lover]**
 
 ---
 
